@@ -1,0 +1,24 @@
+$color: #ff6700;
+
+.login {
+  width: 56px;
+  height: 56px;
+}
+
+.w1200 {
+  width: 1226px;
+}
+
+.w1000 {
+  width: 1000px;
+}
+
+.active:hover {
+  color: $color;
+}
+.price {
+  color: $color;
+}
+.line {
+  text-decoration: line-through;
+}
